@@ -1,0 +1,25 @@
+
+# Dataset
+wikisent2.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Conda and virtual environments
+.venv/
+venv/
+env/
+
+# Experiment outputs
+results_*/
+
+# Model files
+*.pt
+*.pth
+*.ckpt
+
+# Private information
+.env
+*.pem
+*.key
